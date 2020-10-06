@@ -1,1 +1,1 @@
-# Solution to Algorithm-Design-Kleinberg
+# Solution to Algorithm-Design-Kleinberg(Tsinghua University)
